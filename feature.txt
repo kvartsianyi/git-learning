@@ -1,2 +1,3 @@
 "Feature commit" 
-"Feature update commit" 
+"Feature update commit"
+"Feature change commit" 
